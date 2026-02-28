@@ -1,5 +1,5 @@
 # FLAPPY-BIRD-CLONE
-🐦 Flappy Bird clone in JavaScript and HTML Canvas.
+🐦 Flappy Bird clone made using HTML, CSS and JavaScript.
 
 🌬️ Press Space/Arrow Up/X to jump. 🪂 Avoid pipes and stay in the air.
 
