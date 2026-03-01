@@ -22,8 +22,7 @@ Avoid hitting the pipes or falling off the screen.
 
 Try to beat your high score!
 
-📥 Downloading the Game
-How to Download as ZIP file?
+📥 Downloading the Game as ZIP file
 
 Click the green Code button.
 
