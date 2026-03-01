@@ -11,7 +11,7 @@ Game over detection on collision or falling.
 
 Reset game with a key press.
 
-<img width="466" height="810" alt="image" src="https://github.com/user-attachments/assets/cf6f1691-92cf-419b-b4c4-2ead0aa6f35b" />
+<img width="453" height="810" alt="image" src="https://github.com/user-attachments/assets/1184a139-3ffe-45be-9aec-c6ff195f1c93" />
 
 
 🕹 How to Play
