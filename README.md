@@ -23,9 +23,7 @@ Avoid hitting the pipes or falling off the screen.
 Try to beat your high score!
 
 📥 Downloading the Game
-Option 1: Download as ZIP
-
-Go to your GitHub repository page.
+How to Download as ZIP file?
 
 Click the green Code button.
 
