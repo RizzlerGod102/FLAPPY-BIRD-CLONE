@@ -1,16 +1,36 @@
 # FLAPPY-BIRD-CLONE
-🐦 Flappy Bird clone made using HTML, CSS and JavaScript.
+🎮 Features
 
-🌬️ Press Space/Arrow Up/X to jump. 🪂 Avoid pipes and stay in the air.
+Smooth bird physics with gravity and jump mechanics.
 
-⭐ Score by passing pipes. 
+Randomly generated pipes with dynamic spacing.
 
-💥 Hit a pipe or fall = Game Over. 
+Score tracking based on pipes passed.
 
-🔄 Press jump to restart.
+Game over detection on collision or falling.
 
-## How to Play
-1. Download the repository as a ZIP.
-2. Extract the folder.
-3. Open `index.html` in your browser.
-4. Press Space / Arrow Up / X to start playing! 🐦
+Reset game with a key press.
+
+<img width="466" height="810" alt="image" src="https://github.com/user-attachments/assets/cf6f1691-92cf-419b-b4c4-2ead0aa6f35b" />
+
+
+🕹 How to Play
+
+Press Space, Arrow Up, or X to make the bird jump.
+
+Avoid hitting the pipes or falling off the screen.
+
+Try to beat your high score!
+
+📥 Downloading the Game
+Option 1: Download as ZIP
+
+Go to your GitHub repository page.
+
+Click the green Code button.
+
+Select Download ZIP.
+
+Once downloaded, unzip the folder on your computer.
+
+Open index.html in your browser to play the game.
