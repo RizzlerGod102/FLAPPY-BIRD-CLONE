@@ -1,5 +1,5 @@
 # FLAPPY-BIRD-CLONE
-🎮 Features
+🎮 Features - Works on PC only
 
 Smooth bird physics with gravity and jump mechanics.
 
