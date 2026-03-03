@@ -22,6 +22,8 @@ Avoid hitting the pipes or falling off the screen.
 
 Try to beat your high score!
 
+if you fall off the screen, refresh the browser
+
 📥 Downloading the Game as ZIP file
 
 Click the green Code button.
@@ -32,5 +34,6 @@ Once downloaded, unzip the folder on your computer.
 
 Open index.html in your browser to play the game.
 
-Click here to play the game!
+Click here to play the game:
+
 https://rizzlergod102.github.io/FLAPPY-BIRD-CLONE/Flappy%20Bird%20Clone/index.html
