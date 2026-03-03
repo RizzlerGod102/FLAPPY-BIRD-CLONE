@@ -30,5 +30,7 @@ Select Download ZIP.
 
 Once downloaded, unzip the folder on your computer.
 
-
 Open index.html in your browser to play the game.
+
+Click here to play the game!
+https://rizzlergod102.github.io/FLAPPY-BIRD-CLONE/Flappy%20Bird%20Clone/index.html
